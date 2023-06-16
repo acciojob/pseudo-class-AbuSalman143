@@ -1,8 +1,8 @@
-p:before{
+div:before{
 	content:"Before Element"; 
 	color:red;
 }
-p:after{
+div:after{
 	content:"After Element"; 
 	color:red;
 }
